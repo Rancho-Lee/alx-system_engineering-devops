@@ -1,1 +1,1 @@
-This is a directory where the first script is stored
+This directory is holding my first executable script
